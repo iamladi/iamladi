@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer · React Native · AI Tooling · Available for Contract Work**
 
-I build production systems — from mobile apps to AI agent infrastructure. Shipping code since 2008, with 87 public repos and OSS libraries used across thousands of projects.
+I build production systems — from mobile apps to AI agent infrastructure. Shipping code since 2008, with 88 public repos and OSS libraries used across thousands of projects.
 
 ## What I Do
 
